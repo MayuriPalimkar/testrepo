@@ -1,0 +1,5 @@
+Com\Ecommerce\TestCases\TC_AddToCart.class
+Com\Ecommerce\TestCases\facebook_testcases.class
+Com\Ecommerce\TestCases\logindatatest.class
+Com\Ecommerce\TestCases\TC_login_testcases.class
+Com\Ecommerce\TestCases\TC_newRegistrationTestCases.class

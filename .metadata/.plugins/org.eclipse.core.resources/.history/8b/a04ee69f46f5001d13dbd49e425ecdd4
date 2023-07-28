@@ -1,0 +1,26 @@
+package logical_programs;
+
+public class palindrome {
+	
+	public static void main(String[] args) {
+		//palindrome number -- a seuence of numbers which reads same as forward and backword
+		
+		int num[] = {1001};
+		
+		int num1 = 0;
+		
+		for (int i = num.length-1; i>=0; i--) {
+			num1 = num1 + num[i];
+		}
+		System.out.println(num1);
+
+		if(num.equals(num1)){
+			System.out.println("given number is palindrome number");
+			
+		}
+		else {
+			System.out.println("given number is not a palindrome number");
+		}
+	}
+
+}

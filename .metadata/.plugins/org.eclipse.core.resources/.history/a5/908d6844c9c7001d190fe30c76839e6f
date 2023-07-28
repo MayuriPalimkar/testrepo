@@ -1,0 +1,21 @@
+
+public class byteshortint {
+	public static void main (String[]args) {
+		//data types byte short int
+		//syntax data type variable name = value;
+		
+		byte b1 = 10;
+		byte b2 = 127; //max limit
+		 
+		byte b3 = -14;
+		byte b4 = -128; //min limit
+		 System.out.println("byte data type-->"+b1);  //printing statement
+		 System.out.println("byte data type max lim -->"+b2);
+		 System.out.println(b3);
+		 System.out.println("byte min limit"+b4);
+		 
+		 
+		 
+	}
+
+}

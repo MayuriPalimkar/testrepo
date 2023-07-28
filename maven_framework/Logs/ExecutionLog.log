@@ -1,0 +1,273 @@
+2023-07-20 18:10:21,269 - 11march_automation_maven -INFO - Open Browser
+2023-07-20 18:10:21,309 - 11march_automation_maven -INFO - maximize the browser
+2023-07-20 18:10:31,444 - 11march_automation_maven -INFO - Open application
+2023-07-20 18:10:36,769 - 11march_automation_maven -INFO - enter the username
+2023-07-20 18:10:39,697 - 11march_automation_maven -INFO - enter the password
+2023-07-20 18:10:48,719 - 11march_automation_maven -INFO - click on the log in button
+2023-07-20 18:10:50,019 - 11march_automation_maven -INFO - log in test case pass
+2023-07-21 10:21:16,324 - maven_framework -INFO - Open Browser
+2023-07-21 10:21:16,693 - maven_framework -INFO - Maximize the browser
+2023-07-21 10:21:22,575 - maven_framework -INFO - open application
+2023-07-21 10:21:24,860 - maven_framework -INFO - Enter the username
+2023-07-21 10:21:25,707 - maven_framework -INFO - Enter the password
+2023-07-21 10:21:26,470 - maven_framework -INFO - click on the button
+2023-07-21 10:21:26,562 - maven_framework -INFO - Facebook – log in or sign up
+2023-07-21 14:21:01,582 - maven_framework -INFO - Open Browser
+2023-07-21 14:21:01,633 - maven_framework -INFO - maximize the browser
+2023-07-21 14:21:11,951 - maven_framework -INFO - Open application
+2023-07-21 14:21:18,228 - maven_framework -INFO - enter the username
+2023-07-21 14:21:19,127 - maven_framework -INFO - enter the password
+2023-07-21 14:21:26,027 - maven_framework -INFO - click on the log in button
+2023-07-21 14:24:29,985 - maven_framework -INFO - Open Browser
+2023-07-21 14:24:30,028 - maven_framework -INFO - maximize the browser
+2023-07-21 14:24:36,566 - maven_framework -INFO - Open application
+2023-07-21 14:24:41,579 - maven_framework -INFO - enter the username
+2023-07-21 14:24:42,345 - maven_framework -INFO - enter the password
+2023-07-21 14:24:45,549 - maven_framework -INFO - click on the log in button
+2023-07-21 19:53:50,244 - maven_framework -INFO - Open Browser
+2023-07-21 19:53:50,266 - maven_framework -INFO - maximize the browser
+2023-07-21 19:53:54,095 - maven_framework -INFO - Open application
+2023-07-21 19:53:58,601 - maven_framework -INFO - enter the username
+2023-07-21 19:53:59,335 - maven_framework -INFO - enter the password
+2023-07-21 19:54:01,490 - maven_framework -INFO - click on the log in button
+2023-07-21 19:57:21,690 - maven_framework -INFO - Open Browser
+2023-07-21 19:57:21,709 - maven_framework -INFO - maximize the browser
+2023-07-21 19:57:26,781 - maven_framework -INFO - Open application
+2023-07-21 19:57:31,072 - maven_framework -INFO - enter the username
+2023-07-21 19:57:31,526 - maven_framework -INFO - enter the password
+2023-07-21 19:57:34,720 - maven_framework -INFO - click on the log in button
+2023-07-22 11:07:47,268 - maven_framework -INFO - Open Browser
+2023-07-22 11:07:47,320 - maven_framework -INFO - maximize the browser
+2023-07-22 11:07:53,638 - maven_framework -INFO - Open application
+2023-07-22 11:07:59,270 - maven_framework -INFO - enter the username
+2023-07-22 11:08:00,430 - maven_framework -INFO - enter the password
+2023-07-22 11:08:04,979 - maven_framework -INFO - click on the log in button
+2023-07-22 11:16:35,521 - maven_framework -INFO - Open Browser
+2023-07-22 11:16:35,641 - maven_framework -INFO - maximize the browser
+2023-07-22 11:16:44,206 - maven_framework -INFO - Open application
+2023-07-22 11:16:50,672 - maven_framework -INFO - enter the username
+2023-07-22 11:16:52,319 - maven_framework -INFO - enter the password
+2023-07-22 11:16:58,845 - maven_framework -INFO - click on the log in button
+2023-07-22 11:23:56,914 - maven_framework -INFO - Open Browser
+2023-07-22 11:23:56,952 - maven_framework -INFO - maximize the browser
+2023-07-22 11:24:07,148 - maven_framework -INFO - Open application
+2023-07-22 11:24:13,055 - maven_framework -INFO - enter the username
+2023-07-22 11:24:16,940 - maven_framework -INFO - enter the password
+2023-07-22 11:24:23,931 - maven_framework -INFO - click on the log in button
+2023-07-22 11:46:38,745 - maven_framework -INFO - Open Browser
+2023-07-22 11:46:38,757 - maven_framework -INFO - maximize the browser
+2023-07-22 12:06:22,240 - maven_framework -INFO - Open Browser
+2023-07-22 12:06:22,277 - maven_framework -INFO - maximize the browser
+2023-07-22 12:06:31,111 - maven_framework -INFO - Open application
+2023-07-22 12:06:38,668 - maven_framework -INFO - enter the username
+2023-07-22 12:06:40,164 - maven_framework -INFO - enter the password
+2023-07-22 12:06:48,468 - maven_framework -INFO - click on the log in button
+2023-07-22 12:17:48,164 - maven_framework -INFO - Open Browser
+2023-07-22 12:17:48,184 - maven_framework -INFO - maximize the browser
+2023-07-22 12:17:56,419 - maven_framework -INFO - Open application
+2023-07-22 12:18:06,527 - maven_framework -INFO - enter the username
+2023-07-22 12:18:10,842 - maven_framework -INFO - enter the password
+2023-07-22 12:18:20,261 - maven_framework -INFO - click on the log in button
+2023-07-22 12:55:04,347 - maven_framework -INFO - Open Browser
+2023-07-22 12:55:04,398 - maven_framework -INFO - maximize the browser
+2023-07-22 12:55:07,682 - maven_framework -INFO - Open application
+2023-07-22 12:55:11,618 - maven_framework -INFO - enter the username
+2023-07-22 12:55:12,654 - maven_framework -INFO - enter the password
+2023-07-22 12:55:15,427 - maven_framework -INFO - click on the log in button
+2023-07-22 12:55:15,551 - maven_framework -INFO - log in test case pass
+2023-07-22 15:57:30,516 - maven_framework -INFO - Open Browser
+2023-07-22 15:57:30,530 - maven_framework -INFO - maximize the browser
+2023-07-22 15:57:33,693 - maven_framework -INFO - Open application
+2023-07-22 15:57:37,842 - maven_framework -INFO - enter the username
+2023-07-22 15:57:38,392 - maven_framework -INFO - enter the password
+2023-07-22 15:57:41,147 - maven_framework -INFO - click on the log in button
+2023-07-22 16:00:48,936 - maven_framework -INFO - Open Browser
+2023-07-22 16:00:49,034 - maven_framework -INFO - maximize the browser
+2023-07-22 16:00:51,223 - maven_framework -INFO - Open application
+2023-07-22 16:00:54,893 - maven_framework -INFO - enter the username
+2023-07-22 16:00:55,321 - maven_framework -INFO - enter the password
+2023-07-22 16:00:57,531 - maven_framework -INFO - click on the log in button
+2023-07-22 17:43:57,978 - maven_framework -INFO - Open Browser
+2023-07-22 17:43:58,001 - maven_framework -INFO - maximize the browser
+2023-07-22 17:46:56,453 - maven_framework -INFO - Open Browser
+2023-07-22 17:46:56,522 - maven_framework -INFO - maximize the browser
+2023-07-22 17:47:04,845 - maven_framework -INFO - Open application
+2023-07-22 17:47:09,087 - maven_framework -INFO - enter the username
+2023-07-22 17:47:10,022 - maven_framework -INFO - enter the password
+2023-07-22 17:47:14,265 - maven_framework -INFO - click on the log in button
+2023-07-22 17:50:09,658 - maven_framework -INFO - Open Browser
+2023-07-22 17:50:09,742 - maven_framework -INFO - maximize the browser
+2023-07-22 17:53:11,034 - maven_framework -INFO - Open Browser
+2023-07-22 17:53:11,054 - maven_framework -INFO - maximize the browser
+2023-07-22 17:53:21,920 - maven_framework -INFO - Open application
+2023-07-22 17:53:26,682 - maven_framework -INFO - enter the username
+2023-07-22 17:53:27,676 - maven_framework -INFO - enter the password
+2023-07-22 17:53:31,975 - maven_framework -INFO - click on the log in button
+2023-07-22 18:03:21,116 - maven_framework -INFO - Open Browser
+2023-07-22 18:03:21,132 - maven_framework -INFO - maximize the browser
+2023-07-22 18:03:25,866 - maven_framework -INFO - Open application
+2023-07-22 18:03:29,654 - maven_framework -INFO - enter the username
+2023-07-22 18:03:30,249 - maven_framework -INFO - enter the password
+2023-07-22 18:03:49,111 - maven_framework -INFO - click on the log in button
+2023-07-22 20:48:34,774 - maven_framework -INFO - Open Browser
+2023-07-22 20:48:34,793 - maven_framework -INFO - maximize the browser
+2023-07-22 20:48:42,707 - maven_framework -INFO - Open application
+2023-07-22 20:48:50,336 - maven_framework -INFO - enter the username
+2023-07-22 20:48:53,013 - maven_framework -INFO - enter the password
+2023-07-22 20:48:58,552 - maven_framework -INFO - click on the log in button
+2023-07-22 22:35:01,936 - maven_framework -INFO - Open Browser
+2023-07-22 22:35:01,953 - maven_framework -INFO - maximize the browser
+2023-07-22 22:35:06,305 - maven_framework -INFO - Open application
+2023-07-22 22:35:06,943 - maven_framework -INFO - enter the username
+2023-07-22 22:35:18,664 - maven_framework -INFO - Open Browser
+2023-07-22 22:35:18,668 - maven_framework -INFO - maximize the browser
+2023-07-22 22:35:22,509 - maven_framework -INFO - Open application
+2023-07-22 22:35:23,166 - maven_framework -INFO - enter the username
+2023-07-22 22:35:34,877 - maven_framework -INFO - Open Browser
+2023-07-22 22:35:34,879 - maven_framework -INFO - maximize the browser
+2023-07-22 22:35:37,744 - maven_framework -INFO - Open application
+2023-07-22 22:35:38,675 - maven_framework -INFO - enter the username
+2023-07-22 22:35:50,207 - maven_framework -INFO - Open Browser
+2023-07-22 22:35:50,208 - maven_framework -INFO - maximize the browser
+2023-07-22 22:35:52,771 - maven_framework -INFO - Open application
+2023-07-22 22:35:53,320 - maven_framework -INFO - enter the username
+2023-07-22 22:36:05,446 - maven_framework -INFO - Open Browser
+2023-07-22 22:36:05,448 - maven_framework -INFO - maximize the browser
+2023-07-22 22:36:08,817 - maven_framework -INFO - Open application
+2023-07-22 22:36:09,436 - maven_framework -INFO - enter the username
+2023-07-22 22:50:39,313 - maven_framework -INFO - Open Browser
+2023-07-22 22:50:39,375 - maven_framework -INFO - maximize the browser
+2023-07-22 22:50:42,562 - maven_framework -INFO - Open application
+2023-07-22 22:50:43,541 - maven_framework -INFO - enter the username
+2023-07-22 22:50:47,102 - maven_framework -INFO - enter the password
+2023-07-22 22:50:52,355 - maven_framework -INFO - click on the log in button
+2023-07-22 22:51:08,233 - maven_framework -INFO - Open Browser
+2023-07-22 22:51:08,238 - maven_framework -INFO - maximize the browser
+2023-07-22 22:51:10,722 - maven_framework -INFO - Open application
+2023-07-22 22:51:11,331 - maven_framework -INFO - enter the username
+2023-07-22 22:51:14,588 - maven_framework -INFO - enter the password
+2023-07-22 22:51:19,654 - maven_framework -INFO - click on the log in button
+2023-07-22 22:51:33,514 - maven_framework -INFO - Open Browser
+2023-07-22 22:51:33,515 - maven_framework -INFO - maximize the browser
+2023-07-22 22:51:36,033 - maven_framework -INFO - Open application
+2023-07-22 22:51:36,480 - maven_framework -INFO - enter the username
+2023-07-22 22:51:39,837 - maven_framework -INFO - enter the password
+2023-07-22 22:51:45,081 - maven_framework -INFO - click on the log in button
+2023-07-23 06:35:42,651 - maven_framework -INFO - Open Browser
+2023-07-23 06:35:42,663 - maven_framework -INFO - maximize the browser
+2023-07-23 06:35:45,687 - maven_framework -INFO - Open application
+2023-07-23 06:35:46,353 - maven_framework -INFO - enter the username
+2023-07-23 06:35:50,123 - maven_framework -INFO - enter the password
+2023-07-23 06:35:55,199 - maven_framework -INFO - click on the log in button
+2023-07-23 06:36:12,753 - maven_framework -INFO - Open Browser
+2023-07-23 06:36:12,757 - maven_framework -INFO - maximize the browser
+2023-07-23 06:36:15,424 - maven_framework -INFO - Open application
+2023-07-23 06:36:15,902 - maven_framework -INFO - enter the username
+2023-07-23 06:36:19,704 - maven_framework -INFO - enter the password
+2023-07-23 06:36:24,807 - maven_framework -INFO - click on the log in button
+2023-07-23 06:36:43,782 - maven_framework -INFO - Open Browser
+2023-07-23 06:36:43,784 - maven_framework -INFO - maximize the browser
+2023-07-23 06:36:46,072 - maven_framework -INFO - Open application
+2023-07-23 06:36:46,535 - maven_framework -INFO - enter the username
+2023-07-23 06:36:58,949 - maven_framework -INFO - Open Browser
+2023-07-23 06:36:58,951 - maven_framework -INFO - maximize the browser
+2023-07-23 06:43:12,289 - maven_framework -INFO - Open Browser
+2023-07-23 06:43:12,302 - maven_framework -INFO - maximize the browser
+2023-07-23 06:43:14,590 - maven_framework -INFO - Open application
+2023-07-23 06:43:15,076 - maven_framework -INFO - enter the username
+2023-07-23 06:43:18,312 - maven_framework -INFO - enter the password
+2023-07-23 06:43:23,130 - maven_framework -INFO - click on the log in button
+2023-07-23 06:43:36,088 - maven_framework -INFO - Open Browser
+2023-07-23 06:43:36,095 - maven_framework -INFO - maximize the browser
+2023-07-23 06:43:39,466 - maven_framework -INFO - Open application
+2023-07-23 06:43:39,893 - maven_framework -INFO - enter the username
+2023-07-23 06:43:43,225 - maven_framework -INFO - enter the password
+2023-07-23 06:43:54,616 - maven_framework -INFO - Open Browser
+2023-07-23 06:43:54,617 - maven_framework -INFO - maximize the browser
+2023-07-23 06:43:57,793 - maven_framework -INFO - Open application
+2023-07-23 06:43:58,297 - maven_framework -INFO - enter the username
+2023-07-23 06:44:01,626 - maven_framework -INFO - enter the password
+2023-07-23 06:44:07,179 - maven_framework -INFO - click on the log in button
+2023-07-23 06:44:21,935 - maven_framework -INFO - Open Browser
+2023-07-23 06:44:21,936 - maven_framework -INFO - maximize the browser
+2023-07-23 06:45:16,445 - maven_framework -INFO - Open Browser
+2023-07-23 06:45:16,472 - maven_framework -INFO - maximize the browser
+2023-07-23 06:45:19,333 - maven_framework -INFO - Open application
+2023-07-23 06:45:19,844 - maven_framework -INFO - enter the username
+2023-07-23 06:45:23,203 - maven_framework -INFO - enter the password
+2023-07-23 06:45:28,054 - maven_framework -INFO - click on the log in button
+2023-07-23 06:45:44,914 - maven_framework -INFO - Open Browser
+2023-07-23 06:45:44,925 - maven_framework -INFO - maximize the browser
+2023-07-23 06:45:47,234 - maven_framework -INFO - Open application
+2023-07-23 06:45:48,105 - maven_framework -INFO - enter the username
+2023-07-23 06:45:51,792 - maven_framework -INFO - enter the password
+2023-07-23 06:45:56,535 - maven_framework -INFO - click on the log in button
+2023-07-23 06:46:11,063 - maven_framework -INFO - Open Browser
+2023-07-23 06:46:11,065 - maven_framework -INFO - maximize the browser
+2023-07-23 06:46:15,541 - maven_framework -INFO - Open application
+2023-07-23 06:46:16,016 - maven_framework -INFO - enter the username
+2023-07-23 06:46:19,441 - maven_framework -INFO - enter the password
+2023-07-23 06:46:24,129 - maven_framework -INFO - click on the log in button
+2023-07-23 06:46:39,521 - maven_framework -INFO - Open Browser
+2023-07-23 06:46:39,551 - maven_framework -INFO - maximize the browser
+2023-07-23 06:46:41,911 - maven_framework -INFO - Open application
+2023-07-23 06:46:42,945 - maven_framework -INFO - enter the username
+2023-07-23 06:46:46,300 - maven_framework -INFO - enter the password
+2023-07-23 06:46:51,076 - maven_framework -INFO - click on the log in button
+2023-07-23 06:47:04,694 - maven_framework -INFO - Open Browser
+2023-07-23 06:47:04,695 - maven_framework -INFO - maximize the browser
+2023-07-23 12:14:18,457 - maven_framework -INFO - Open Browser
+2023-07-23 12:14:18,522 - maven_framework -INFO - maximize the browser
+2023-07-23 12:14:21,830 - maven_framework -INFO - Open application
+2023-07-23 12:14:22,043 - maven_framework -INFO - open URL
+2023-07-23 12:14:22,442 - maven_framework -INFO - enter the username
+2023-07-23 12:14:25,900 - maven_framework -INFO - enter the password
+2023-07-23 12:14:31,507 - maven_framework -INFO - click on the log in button
+2023-07-23 12:14:34,805 - maven_framework -INFO - Mousehover on computer
+2023-07-23 12:14:36,971 - maven_framework -INFO - clicked on Notebook
+2023-07-23 12:14:38,465 - maven_framework -INFO - macBook selected
+2023-07-23 12:14:38,791 - maven_framework -INFO - add to cart
+2023-07-23 12:14:39,853 - maven_framework -INFO - verified message
+2023-07-23 12:14:40,571 - maven_framework -INFO - clicked on close tab
+2023-07-23 12:17:55,458 - maven_framework -INFO - Open Browser
+2023-07-23 12:17:55,945 - maven_framework -INFO - maximize the browser
+2023-07-23 12:17:58,779 - maven_framework -INFO - Open application
+2023-07-23 12:17:59,017 - maven_framework -INFO - open URL
+2023-07-23 12:17:59,564 - maven_framework -INFO - enter the username
+2023-07-23 12:18:02,933 - maven_framework -INFO - enter the password
+2023-07-23 12:18:06,866 - maven_framework -INFO - click on the log in button
+2023-07-23 12:18:10,173 - maven_framework -INFO - Mousehover on computer
+2023-07-23 12:18:11,991 - maven_framework -INFO - clicked on Notebook
+2023-07-23 12:18:13,662 - maven_framework -INFO - macBook selected
+2023-07-23 12:18:14,121 - maven_framework -INFO - add to cart
+2023-07-23 12:18:14,907 - maven_framework -INFO - verified message
+2023-07-23 12:22:31,577 - maven_framework -INFO - Open Browser
+2023-07-23 12:22:32,116 - maven_framework -INFO - maximize the browser
+2023-07-23 12:22:35,340 - maven_framework -INFO - Open application
+2023-07-23 12:22:35,519 - maven_framework -INFO - open URL
+2023-07-23 12:22:35,901 - maven_framework -INFO - enter the username
+2023-07-23 12:22:39,209 - maven_framework -INFO - enter the password
+2023-07-23 12:22:44,673 - maven_framework -INFO - click on the log in button
+2023-07-23 12:22:48,026 - maven_framework -INFO - Mousehover on computer
+2023-07-23 12:22:49,871 - maven_framework -INFO - clicked on Notebook
+2023-07-23 12:22:51,708 - maven_framework -INFO - macBook selected
+2023-07-23 12:22:52,726 - maven_framework -INFO - add to cart
+2023-07-23 12:22:54,305 - maven_framework -INFO - verified message
+2023-07-25 13:54:35,374 - maven_framework -INFO - Open Browser
+2023-07-25 13:54:35,893 - maven_framework -INFO - maximize the browser
+2023-07-25 13:54:44,880 - maven_framework -INFO - Open application
+2023-07-25 13:54:49,749 - maven_framework -INFO - enter the username
+2023-07-25 13:54:50,994 - maven_framework -INFO - enter the password
+2023-07-25 13:54:51,994 - maven_framework -INFO - click on the log in button
+2023-07-25 14:10:41,105 - maven_framework -INFO - Open Browser
+2023-07-25 14:10:41,873 - maven_framework -INFO - maximize the browser
+2023-07-25 14:10:44,314 - maven_framework -INFO - Open application
+2023-07-25 14:10:48,383 - maven_framework -INFO - enter the username
+2023-07-25 14:10:48,854 - maven_framework -INFO - enter the password
+2023-07-25 14:10:49,674 - maven_framework -INFO - click on the log in button
+2023-07-25 17:38:35,591 - maven_framework -INFO - Open Browser
+2023-07-25 17:38:36,104 - maven_framework -INFO - maximize the browser
+2023-07-25 17:38:40,620 - maven_framework -INFO - Open application
+2023-07-25 17:38:44,763 - maven_framework -INFO - enter the username
+2023-07-25 17:38:45,501 - maven_framework -INFO - enter the password
+2023-07-25 17:38:49,021 - maven_framework -INFO - click on the log in button

@@ -1,0 +1,17 @@
+package Com.Ecommerce.BaseClass;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+
+import Com.Ecommerce.Configuration.ReadCofiguration;
+
+public class ECommerce_crossbrowser_baseclass {
+	
+	public static WebDriver driver;
+	public static Logger logger;
+	
+	ReadCofiguration RC = new ReadCofiguration();
+	
+	
+
+}

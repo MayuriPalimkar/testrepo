@@ -1,0 +1,39 @@
+package array;
+
+public class array5 {
+
+	public static void main(String [] args) {
+		
+		//datatype arrayname[] = new datatype[size of index]
+		
+		double d1[] = new double[4];
+		double []d2 = new double[4];
+	
+		d1[0] = 45.25d;
+		d1[1] = 85.3d;
+		d1[3] = 96.58;
+		
+		System.out.println(d1.length);
+		System.out.println();
+	
+		for(int i=0; i< d1.length; i++) {
+			System.out.println(d1[i]);
+			
+		}
+		System.out.println();
+		
+		d2[0] = 45.25d;
+		d2[1] = 85.3d;
+		d2[2] = 60;
+		d2[3] = 96.58;
+		
+		System.out.println(d2.length);
+		System.out.println();
+	
+		for(int i=0; i< d2.length; i++) {
+			System.out.println(d2[i]);
+			
+		
+	}
+}
+}

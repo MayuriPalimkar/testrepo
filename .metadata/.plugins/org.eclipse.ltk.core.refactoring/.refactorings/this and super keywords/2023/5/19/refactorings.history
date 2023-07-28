@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;thisandsuper&apos; to &apos;11thmarch/src/practicemethods&apos;&#x0D;&#x0A;- Original project: &apos;this and super keywords&apos;&#x0D;&#x0A;- Destination element: &apos;11thmarch/src/practicemethods&apos;&#x0D;&#x0A;- Original element: &apos;this and super keywords/src/thisandsuper&apos;" description="Copy package" destination="=11thmarch/src&lt;practicemethods" element1="/src&lt;thisandsuper" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1683519274754" version="1.0"/>
+</session>

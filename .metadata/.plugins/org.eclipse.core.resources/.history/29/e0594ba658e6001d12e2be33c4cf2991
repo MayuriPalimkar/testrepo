@@ -1,0 +1,21 @@
+package interface1;
+
+public class testcalci implements calci {
+ 
+	public void addition() {
+		System.out.println("Adition");
+
+	}
+	public void sutraction() {
+		
+	
+	System.out.println("subtraction");
+	}
+	
+	public void multiplication() {
+		System.out.println("multiplication");
+		
+	}
+	
+	
+}

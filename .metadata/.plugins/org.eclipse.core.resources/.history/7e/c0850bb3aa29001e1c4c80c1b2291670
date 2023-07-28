@@ -1,0 +1,15 @@
+package com.openMRS.TestCases;
+
+import com.openMRS.PageClasses.Login_page;
+import com.openMRS.baseClass.baseclass1;
+
+public class TC_logintest_001 extends baseclass1 {
+
+	
+	public void loginTest() {
+	 Login_page TL = new  Login_page(); 
+	 
+	 
+	
+}
+}

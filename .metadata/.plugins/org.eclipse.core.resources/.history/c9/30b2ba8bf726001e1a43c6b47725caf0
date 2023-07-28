@@ -1,0 +1,41 @@
+package Com.Ecommerce.TestCases;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import Com.Ecommerce.BaseClass.Ecommerce_BaseClass;
+import Com.Ecommerce.PageClasses.TC_login;
+
+
+public class TC_login_testcases extends Ecommerce_BaseClass {
+	@Test
+	public void logintest() throws InterruptedException {
+		
+		TC_login TL = new TC_login();
+		
+		//TL.loginn();
+		//logger.info("log in");
+		Thread.sleep(3000);
+		TL.username(Username);
+		logger.info("enter the username");
+		
+		TL.pass(Password);
+		logger.info("enter the password");
+		TL.buttonclick();
+		logger.info("click on the log in button");
+		
+		String title = driver.getTitle();
+		
+		if(title.equals("nopCommerce demo store")) {
+			Assert.assertTrue(true);
+			logger.info("log in test case pass");
+		}
+		else {
+			Assert.assertTrue(false);
+			logger.info("log in test case fail");
+		}
+		
+	}
+
+	
+}

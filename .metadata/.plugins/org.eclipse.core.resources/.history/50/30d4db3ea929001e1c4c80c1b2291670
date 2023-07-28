@@ -1,0 +1,5 @@
+package com.openMRS.TestCases;
+
+public class TC_logintest_001 {
+
+}

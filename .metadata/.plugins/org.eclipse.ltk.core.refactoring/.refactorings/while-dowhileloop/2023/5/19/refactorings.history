@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;whiledowhile&apos; to &apos;11thmarch/src/string&apos;&#x0D;&#x0A;- Original project: &apos;while-dowhileloop&apos;&#x0D;&#x0A;- Destination element: &apos;11thmarch/src/string&apos;&#x0D;&#x0A;- Original element: &apos;while-dowhileloop/src/whiledowhile&apos;" description="Copy package" destination="=11thmarch/src&lt;string" element1="/src&lt;whiledowhile" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1683519351930" version="1.0"/>
+</session>

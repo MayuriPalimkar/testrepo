@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Byjus_program.java&apos; to &apos;testNG_selenium/src/Byjus&apos;&#x0D;&#x0A;- Original project: &apos;selenium&apos;&#x0D;&#x0A;- Destination element: &apos;testNG_selenium/src/Byjus&apos;&#x0D;&#x0A;- Original element: &apos;star_pattern.Byjus_program.java&apos;" description="Copy compilation unit" destination="=testNG_selenium/src&lt;Byjus" element1="/src&lt;star_pattern{Byjus_program.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1688986521441" units="1" version="1.0"/>
+</session>

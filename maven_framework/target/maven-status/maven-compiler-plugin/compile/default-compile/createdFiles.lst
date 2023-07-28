@@ -1,0 +1,15 @@
+Com\Ecommerce\Utilities\Mytransformer.class
+Com\Ecommerce\Configuration\facebook_readconfig.class
+Com\Ecommerce\PageClasses\TC_ECommerce_Addtocart.class
+Com\Ecommerce\BaseClass\ECommerce_crossbrowser_baseclass.class
+Com\Ecommerce\Utilities\GenericUtils.class
+Com\Ecommerce\Utilities\Listners.class
+Com\Ecommerce\Utilities\XLSUtils.class
+Com\Ecommerce\Utilities\RetryAnalyzer.class
+Com\Ecommerce\Configuration\ReadCofiguration.class
+Com\Ecommerce\BaseClass\facebook_baseclass.class
+Com\Ecommerce\PageClasses\Tc_Facebook_login.class
+Com\Ecommerce\PageClasses\TC_newRegistration.class
+Com\Ecommerce\PageClasses\TC_login.class
+Com\Ecommerce\Utilities\ExtentReportsNG.class
+Com\Ecommerce\BaseClass\Ecommerce_BaseClass.class

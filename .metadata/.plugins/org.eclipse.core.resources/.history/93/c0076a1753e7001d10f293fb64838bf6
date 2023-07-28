@@ -1,0 +1,11 @@
+package array;
+
+public class array1 {
+ 
+	public static void main(String [] args) {
+		
+		int i1 = 10;
+		System.out.println(i1);
+		
+	}
+}

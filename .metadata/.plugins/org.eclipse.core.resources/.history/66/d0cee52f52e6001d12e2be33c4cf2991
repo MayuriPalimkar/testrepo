@@ -1,0 +1,33 @@
+package interface1;
+
+public class testadvancecalculator {
+
+	
+	public static void main(String [] args) {
+		
+		advancecalculator ac = new advancecalculator();
+		ac.addition();
+		ac.subtraction();
+		ac.multiplication();
+		System.out.println();
+		
+		ac.log();
+		ac.tan();
+		System.out.println();
+		
+		ac.sin();
+		ac.cos();
+		System.out.println();
+		
+		calculator c1=new advancecalculator();
+		c1.addition();
+		c1.subtraction();
+		c1.multiplication();
+		System.out.println();
+		
+		casio c2 = new advancecalculator();
+		c2.log();
+		c2.tan();
+		
+	}
+}

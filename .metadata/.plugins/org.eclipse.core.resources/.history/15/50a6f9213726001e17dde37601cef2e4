@@ -1,0 +1,23 @@
+package Com.Ecommerce.TestCases;
+
+import Com.Ecommerce.BaseClass.Ecommerce_BaseClass;
+import Com.Ecommerce.PageClasses.TC_login;
+
+public class TC_login_testcases extends Ecommerce_BaseClass {
+	
+	public void logintest() throws InterruptedException {
+		
+		TC_login TL = new TC_login(driver);
+		
+		TL.loginn();
+		Thread.sleep(3000);
+		TL.username("palimkarmayuri153@gmail.com");
+		TL.pass("mayuri153");
+		TL.buttonclick();
+		
+		
+		
+	}
+
+	
+}

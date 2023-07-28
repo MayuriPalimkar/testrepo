@@ -1,0 +1,8 @@
+com\openMRS\Utilities\MyTransformer.class
+com\openMRS\Utilities\ReadConfiguration.class
+com\openMRS\Utilities\Reporting.class
+com\openMRS\Utilities\RetryAnalyzer.class
+com\openMRS\baseClass\baaseclass2.class
+com\openMRS\PageClasses\Login_page.class
+com\openMRS\Utilities\GenericUtilities.class
+com\openMRS\baseClass\baseclass1.class

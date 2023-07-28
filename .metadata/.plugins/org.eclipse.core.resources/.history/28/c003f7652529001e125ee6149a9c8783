@@ -1,0 +1,73 @@
+package Com.Ecommerce.PageClasses;
+
+import static org.testng.Assert.assertTrue;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
+
+import Com.Ecommerce.BaseClass.Ecommerce_BaseClass;
+import Com.Ecommerce.Utilities.GenericUtils;
+
+public class TC_ECommerce_Addtocart extends  Ecommerce_BaseClass{
+	
+	public TC_ECommerce_Addtocart() {
+		PageFactory.initElements(driver, this);
+	}
+	
+	@FindBy(xpath = "//a[text()=\"Computers \"]")
+	public WebElement com;
+	
+	@FindBy(xpath= "//a[contains(text(),'Notebooks')]")
+	public WebElement Notebook;
+	
+	@FindBy(xpath="//a[contains(text(),'Apple MacBook Pro 13-inch')]")
+	public WebElement selectMacbook;
+	
+	@FindBy(xpath = "//button[@id=\"add-to-cart-button-4\"]")
+	public WebElement button;
+	
+	@FindBy(xpath = "//p[contains(text(),\"The product has been added to your\")]")
+	public WebElement message;
+	
+	
+	@FindBy(xpath="//span[@title=\"Close\"]")
+	public WebElement closetab;
+	
+	
+	public void NoteBook() {
+		Notebook.click();
+	}
+	public void selectproduct() {
+		GenericUtils.clickElementsusingjavaScript(selectMacbook, driver);
+		
+	}
+	public void AddtoCart() {
+		button.click();
+	}
+	
+	public void productadded() {
+		message.isDisplayed();
+	}
+	
+	public void close() {
+		closetab.click();
+	}
+
+	public void product() {
+		By input1 = By.xpath("//img[@title=\"Picture of Apple MacBook Pro 13-inch\"]");
+		
+		boolean result = GenericUtils.WaitForElement(driver, input1, 20).isDisplayed();
+		
+		if(result==true) {
+			logger.info("Product added successfully");
+			Assert.assertTrue(true);
+			
+		}else {
+			logger.info("product added test case failed");
+			Assert.assertTrue(false);
+		}
+	}
+}
