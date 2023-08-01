@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\Mayuri\git\Demo_array\.git"/>
 	<list key="EGit.KnownHosts">
 		<item value="bitbucket.org"/>
 		<item value="git.eclipse.org"/>
 		<item value="github.com"/>
 	</list>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/SurekhaSurawase/Demo_array.git"/>
+		<item value="https://github.com/MayuriPalimkar/java_git_new.git"/>
+		<item value="https://github.com/MayuriPalimkar/selenium_demo.git"/>
 		<item value="https://github.com/MayuriPalimkar/Java.git"/>
 	</list>
 	<list key="CommitDialog.authorValues">
+		<item value="Mayuri &lt;palimkarmayuri153@gmail.com&gt;"/>
 		<item value="Mayuri &lt;Mayuri@DESKTOP-89G8Q2R&gt;"/>
 	</list>
 	<list key="CommitDialog.committerValues">
+		<item value="Mayuri &lt;palimkarmayuri153@gmail.com&gt;"/>
 		<item value="Mayuri &lt;Mayuri@DESKTOP-89G8Q2R&gt;"/>
 	</list>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
 		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
 		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
 		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
-		<item key="sortItemState" value="false"/>
+		<item key="sortItemState" value="true"/>
 	</section>
 	<section name="GitCommitMessageComponent">
 	</section>
@@ -32,5 +39,8 @@
 			<item value="600"/>
 			<item value="400"/>
 		</list>
+	</section>
+	<section name="GitImportWizard">
+		<item key="GitProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
 	</section>
 </section>
