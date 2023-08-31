@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" parallel="tests" name="Test1(failed)">
-    <parameter name="Browsername" value="Chrome"/>
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="CrossBrowserTesting.Crossbrowser1">
+      <class name="TestNG_practice1.grouping">
         <methods>
-          <include name="browsername" invocation-numbers="0"/>
+          <include name="test5"/>
+          <include name="test1"/>
+          <include name="test2"/>
+          <include name="test3"/>
+          <include name="test4"/>
         </methods>
-      </class> <!-- CrossBrowserTesting.Crossbrowser1 -->
-    </classes>
-  </test> <!-- Test1(failed) -->
-  <test thread-count="5" parallel="tests" name="Test(failed)">
-    <parameter name="Browsername" value="Firefox"/>
-    <classes>
-      <class name="CrossBrowserTesting.Crossbrowser1">
+      </class> <!-- TestNG_practice1.grouping -->
+      <class name="TestNG_practice1.TestNGDemo">
         <methods>
-          <include name="browsername" invocation-numbers="0"/>
+          <include name="SetUp"/>
+          <include name="Teardown"/>
+          <include name="googleSearch"/>
         </methods>
-      </class> <!-- CrossBrowserTesting.Crossbrowser1 -->
+      </class> <!-- TestNG_practice1.TestNGDemo -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Mayuri\Downloads\11March_Automation_Framework"/>
 			<item value="C:\Users\Mayuri\eclipse-workspace\selenium"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -45,6 +46,8 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="RestAssured"/>
+			<item value="selenium"/>
 			<item value="Maven_practice1"/>
 			<item value="maven_framework"/>
 			<item value="11march_automation_maven"/>
@@ -52,6 +55,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Rest_Assured"/>
+			<item value="selenium_prac"/>
+			<item value="selenium_practice"/>
 			<item value="Maven_practice1"/>
 			<item value="maven_framework"/>
 			<item value="11march_automation_maven"/>
@@ -92,5 +98,11 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="531"/>
+		<item key="x" value="443"/>
+		<item key="y" value="10"/>
 	</section>
 </section>

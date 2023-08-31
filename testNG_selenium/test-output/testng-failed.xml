@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Byjus_pom.test_class">
+      <class name="khan_academy.login">
         <methods>
-          <include name="demo"/>
+          <include name="setup"/>
+          <include name="Tear_down"/>
+          <include name="log_in"/>
         </methods>
-      </class> <!-- Byjus_pom.test_class -->
+      </class> <!-- khan_academy.login -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

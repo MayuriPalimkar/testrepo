@@ -40,7 +40,7 @@ public class firstprogram {
 		
 		for(int i=2; i<= Row; i++) {  //indexing of table start from 1
 			for(int j=1; j<=col; j++) {
-				String data1 =driver.findElement(By.xpath("//table[@id=\"customers\"]//tbody//tr["+i+"]//td["+j+"]")).getText();
+				String data1 =driver.findElement(By.xpath("//table[@id=\"customers\"]//tbody//tr["+i+"]//td["+j+"]")).getText();//parameterizing values in xath
 				System.out.print(" "+data1);
 				
 			}
